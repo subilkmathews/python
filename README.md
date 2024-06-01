@@ -1,4 +1,4 @@
 #My Test file
-This is a test file from my local repo
-github.com/robbyrussell/oh-my-zsh
+#github.com/robbyrussell/oh-my-zsh
+This is a python repo to save the programs written and tested from local IDE
 
